@@ -17,7 +17,7 @@
 
 ## About
 
-**3+ years at DRDO Bengaluru** across DEBEL and ADA divisions — building defence-grade AI from embedded firmware to real-time field deployment. My work has shipped to actual IAF systems and achieved **98% model efficacy** in real-world field testing.
+**3+ years at DRDO Bengaluru** across DRDO and ADA divisions — building defence-grade AI from embedded firmware to real-time field deployment. My work has shipped to actual IAF systems and achieved **98% model efficacy** in real-world field testing.
 
 The constraint shapes the architecture: your model must run in 8GB RAM on a Jetson, can't call an API, and must work reliably in field conditions. That thinking carries into everything I build — local where it counts, cloud where it adds value.
 
