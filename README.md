@@ -112,7 +112,7 @@ Hybrid RAG over personal documents — PDFs and images in a unified ChromaDB ind
 
 ---
 
-### [AI Newsroom Studio](https://github.com/AlgoDr/AI-Newsroom-Studio) &nbsp;`In Development`
+### [AI Newsroom Studio](https://github.com/AlgoDr/AI-Newsroom-Studio) &nbsp;`In Development(75% Complete)`
 10-agent LangGraph pipeline: HackerNews trends → published YouTube Short, zero human steps. Agents: Trend Scout → Researcher → Fact Checker → Editorial → Script Writer → Video Prompt → Video Generator → Publisher. Conditional state machine with shared `NewsroomState` TypedDict. 4 real data sources (NewsAPI, Reddit PRAW, Google Trends, Serper). Chose LangGraph over CrewAI for explicit state control and 3× lower token usage.
 
 `LangGraph` `Gemini 2.5 Flash` `HeyGen` `YouTube API` `Reddit PRAW` `APScheduler` `SQLite`
