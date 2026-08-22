@@ -133,11 +133,11 @@ Real-time instance segmentation on live webcam/video using Mask-RCNN pretrained 
 
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Metrics
 
 <div align="center">
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgoDr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Deepak's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AlgoDr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
 </div>
 
