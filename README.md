@@ -113,7 +113,7 @@ Autonomous job application agent targeting explicit profile matches. Searches Na
 9-agent autonomous pipeline that translates Natural Language (NL) requirements directly into trained computer vision models. Orchestrates the complete ML lifecycle for complex vision tasks (Object Detection, Instance Segmentation) with zero human intervention. Specialized agents dynamically handle sequential operations: Requirement Analysis → Architecture Search → Model Ranking → Dataset Generation → Training Execution → Training Log Generation.
 `Agentic AI` `Computer Vision` `LLMs` `Object Detection` `Segmentation` `Python`
 
-### [Segmentation](https://github.com/AlgoDr/Segmentation)
+### [Segmentation](https://github.com/AlgoDr/Segmentation) &nbsp;`Classical ML (Oct 2019)`
 Real-time instance segmentation on live webcam/video using Mask-RCNN pretrained on COCO.
 `PyTorch` `Mask-RCNN` `OpenCV` `Python`
 
