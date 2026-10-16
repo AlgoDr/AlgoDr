@@ -97,7 +97,7 @@ My architectural philosophy is shaped by extreme constraints: models must run lo
 
 ## 🚀 Projects
 
-### [Multimodal Identity RAG](https://github.com/AlgoDr/Multimodal-RAG) &nbsp;`V2 — ChromaDB + FastAPI`
+### [Multimodal Identity RAG](https://github.com/AlgoDr/Multimodal-RAG) &nbsp;`V3 — ChromaDB + FastAPI + Gradio GUI +Docker`
 Hybrid RAG over personal documents — PDFs and images in a unified ChromaDB index. Text queries route to BGE + Gemini LLM. Visual queries route to CLIP ViT-B/32. Image content searchable via Gemini Vision captions. Diagnosed and bypassed two upstream LlamaIndex retriever bugs. FastAPI REST endpoint (`POST /query`, `POST /ingest`) with incremental document ingestion — ChromaDB HNSW updates in-place.
 `LlamaIndex` `ChromaDB` `BGE` `CLIP` `Gemini Vision` `FastAPI` `Python 3.13`
 
